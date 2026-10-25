@@ -1,0 +1,11 @@
+{
+  "codigo": "pelota-goma",
+  "nombre": "Pelota de goma resistente",
+  "descripcion": "Pelota de caucho natural que rebota y flota, perfecta para jugar a buscar.",
+  "categoria": "juguetes",
+  "mascota": "Perro",
+  "marca": "PlayPet",
+  "precio": 5.2,
+  "presentacion": "Diámetro 7 cm",
+  "imagen": "/img/productos/pelota-goma.svg"
+}

@@ -1,0 +1,11 @@
+{
+  "codigo": "fuente-agua",
+  "nombre": "Fuente de agua con filtro",
+  "descripcion": "Bebedero eléctrico que mantiene el agua en movimiento y filtrada.",
+  "categoria": "accesorios",
+  "mascota": "Gato",
+  "marca": "HogarPet",
+  "precio": 27.4,
+  "presentacion": "Capacidad 2 litros",
+  "imagen": "/img/productos/fuente-agua.svg"
+}

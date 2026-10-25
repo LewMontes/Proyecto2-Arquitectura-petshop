@@ -1,0 +1,11 @@
+{
+  "codigo": "varita-plumas",
+  "nombre": "Varita con plumas",
+  "descripcion": "Caña flexible con plumas de colores para jugar e interactuar con tu gato.",
+  "categoria": "juguetes",
+  "mascota": "Gato",
+  "marca": "PlayPet",
+  "precio": 3.95,
+  "presentacion": "Largo 60 cm",
+  "imagen": "/img/productos/varita-plumas.svg"
+}

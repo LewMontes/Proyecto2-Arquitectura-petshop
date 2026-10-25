@@ -1,0 +1,11 @@
+{
+  "codigo": "arenero-cubierto",
+  "nombre": "Arenero cubierto",
+  "descripcion": "Caja sanitaria con tapa, puerta basculante y filtro de carbón.",
+  "categoria": "higiene",
+  "mascota": "Gato",
+  "marca": "CatHouse",
+  "precio": 24.9,
+  "presentacion": "50 x 40 x 38 cm",
+  "imagen": "/img/productos/arenero-cubierto.svg"
+}

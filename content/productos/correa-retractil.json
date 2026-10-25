@@ -1,0 +1,11 @@
+{
+  "codigo": "correa-retractil",
+  "nombre": "Correa retráctil",
+  "descripcion": "Correa extensible de 5 metros con botón de freno y mango ergonómico.",
+  "categoria": "accesorios",
+  "mascota": "Perro",
+  "marca": "PasoFirme",
+  "precio": 16.8,
+  "presentacion": "Hasta 25 kg",
+  "imagen": "/img/productos/correa-retractil.svg"
+}

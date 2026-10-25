@@ -1,0 +1,11 @@
+{
+  "codigo": "cama-iglu",
+  "nombre": "Cama iglú para gato",
+  "descripcion": "Cueva de felpa cálida que brinda refugio y privacidad.",
+  "categoria": "camas-casas",
+  "mascota": "Gato",
+  "marca": "DulceSueño",
+  "precio": 19.5,
+  "presentacion": "Diámetro 40 cm",
+  "imagen": "/img/productos/cama-iglu.svg"
+}

@@ -1,0 +1,11 @@
+{
+  "codigo": "collar-nylon",
+  "nombre": "Collar de nylon ajustable",
+  "descripcion": "Collar acolchado con hebilla de liberación rápida y argolla para placa.",
+  "categoria": "accesorios",
+  "mascota": "Perro",
+  "marca": "PasoFirme",
+  "precio": 7.5,
+  "presentacion": "Talla M (35-50 cm)",
+  "imagen": "/img/productos/collar-nylon.svg"
+}

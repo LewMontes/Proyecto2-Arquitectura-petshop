@@ -1,0 +1,11 @@
+{
+  "codigo": "hamaca-ventana",
+  "nombre": "Hamaca de ventana",
+  "descripcion": "Hamaca con ventosas que se adhiere al vidrio para que el gato tome el sol.",
+  "categoria": "camas-casas",
+  "mascota": "Gato",
+  "marca": "CatHouse",
+  "precio": 15.75,
+  "presentacion": "Soporta hasta 15 kg",
+  "imagen": "/img/productos/hamaca-ventana.svg"
+}

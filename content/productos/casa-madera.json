@@ -1,0 +1,11 @@
+{
+  "codigo": "casa-madera",
+  "nombre": "Casa de madera para exterior",
+  "descripcion": "Casita de madera tratada con techo inclinado y piso elevado.",
+  "categoria": "camas-casas",
+  "mascota": "Perro",
+  "marca": "CasaCan",
+  "precio": 95.0,
+  "presentacion": "Tamaño mediano",
+  "imagen": "/img/productos/casa-madera.svg"
+}

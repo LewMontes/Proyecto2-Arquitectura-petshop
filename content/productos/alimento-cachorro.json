@@ -1,0 +1,11 @@
+{
+  "codigo": "alimento-cachorro",
+  "nombre": "Alimento para cachorro",
+  "descripcion": "Fórmula con DHA y calcio que apoya el desarrollo de cachorros hasta los 12 meses.",
+  "categoria": "alimentos",
+  "mascota": "Perro",
+  "marca": "NutriCan",
+  "precio": 18.9,
+  "presentacion": "Saco de 3 kg",
+  "imagen": "/img/productos/alimento-cachorro.svg"
+}

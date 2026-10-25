@@ -1,0 +1,11 @@
+{
+  "codigo": "comedero-doble",
+  "nombre": "Comedero doble de acero",
+  "descripcion": "Base antideslizante con dos platos de acero inoxidable para agua y comida.",
+  "categoria": "accesorios",
+  "mascota": "Perro",
+  "marca": "HogarPet",
+  "precio": 9.9,
+  "presentacion": "2 x 400 ml",
+  "imagen": "/img/productos/comedero-doble.svg"
+}

@@ -1,0 +1,11 @@
+{
+  "codigo": "champu-avena",
+  "nombre": "Champú de avena",
+  "descripcion": "Champú suave con avena coloidal para pieles sensibles y con picazón.",
+  "categoria": "higiene",
+  "mascota": "Perro",
+  "marca": "PielSana",
+  "precio": 8.7,
+  "presentacion": "Botella de 500 ml",
+  "imagen": "/img/productos/champu-avena.svg"
+}

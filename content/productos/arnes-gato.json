@@ -1,0 +1,11 @@
+{
+  "codigo": "arnes-gato",
+  "nombre": "Arnés para gato",
+  "descripcion": "Arnés en forma de chaleco con correa incluida para paseos seguros.",
+  "categoria": "accesorios",
+  "mascota": "Gato",
+  "marca": "PasoFirme",
+  "precio": 11.2,
+  "presentacion": "Talla única",
+  "imagen": "/img/productos/arnes-gato.svg"
+}

@@ -1,0 +1,11 @@
+{
+  "codigo": "rascador-torre",
+  "nombre": "Torre rascadora",
+  "descripcion": "Rascador de sisal de tres niveles con plataforma y bolita colgante.",
+  "categoria": "juguetes",
+  "mascota": "Gato",
+  "marca": "CatHouse",
+  "precio": 45.0,
+  "presentacion": "Alto 90 cm",
+  "imagen": "/img/productos/rascador-torre.svg"
+}

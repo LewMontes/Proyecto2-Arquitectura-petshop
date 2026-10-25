@@ -1,0 +1,11 @@
+{
+  "codigo": "cuerda-nudos",
+  "nombre": "Cuerda con nudos",
+  "descripcion": "Mordedor de algodón trenzado que limpia los dientes mientras juega.",
+  "categoria": "juguetes",
+  "mascota": "Perro",
+  "marca": "PlayPet",
+  "precio": 4.8,
+  "presentacion": "Largo 35 cm",
+  "imagen": "/img/productos/cuerda-nudos.svg"
+}

@@ -1,0 +1,11 @@
+{
+  "codigo": "alimento-conejo",
+  "nombre": "Alimento para conejo",
+  "descripcion": "Pellets con alfalfa y heno que aportan fibra para conejos y cuyos.",
+  "categoria": "alimentos",
+  "mascota": "Roedor",
+  "marca": "CampoVerde",
+  "precio": 9.3,
+  "presentacion": "Bolsa de 2 kg",
+  "imagen": "/img/productos/alimento-conejo.svg"
+}

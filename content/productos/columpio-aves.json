@@ -1,0 +1,11 @@
+{
+  "codigo": "columpio-aves",
+  "nombre": "Columpio para aves",
+  "descripcion": "Columpio de madera natural con cuentas de colores.",
+  "categoria": "peces-aves",
+  "mascota": "Ave",
+  "marca": "PlumaLibre",
+  "precio": 3.2,
+  "presentacion": "Alto 20 cm",
+  "imagen": "/img/productos/columpio-aves.svg"
+}

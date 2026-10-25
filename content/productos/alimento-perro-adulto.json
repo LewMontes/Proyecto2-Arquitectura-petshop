@@ -1,0 +1,11 @@
+{
+  "codigo": "alimento-perro-adulto",
+  "nombre": "Alimento para perro adulto",
+  "descripcion": "Concentrado completo y balanceado con pollo y arroz para perros adultos de razas medianas.",
+  "categoria": "alimentos",
+  "mascota": "Perro",
+  "marca": "NutriCan",
+  "precio": 32.5,
+  "presentacion": "Saco de 7,5 kg",
+  "imagen": "/img/productos/alimento-perro-adulto.svg"
+}

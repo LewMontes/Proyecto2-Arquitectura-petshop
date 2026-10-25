@@ -1,0 +1,11 @@
+{
+  "codigo": "premios-dentales",
+  "nombre": "Premios dentales para perro",
+  "descripcion": "Barritas masticables que ayudan a reducir el sarro y refrescan el aliento.",
+  "categoria": "alimentos",
+  "mascota": "Perro",
+  "marca": "DentiDog",
+  "precio": 6.4,
+  "presentacion": "Paquete de 7 unidades",
+  "imagen": "/img/productos/premios-dentales.svg"
+}

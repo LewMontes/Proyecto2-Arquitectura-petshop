@@ -1,0 +1,11 @@
+{
+  "codigo": "alimento-gato-salmon",
+  "nombre": "Alimento para gato sabor salmón",
+  "descripcion": "Croquetas para gatos adultos con salmón y control de bolas de pelo.",
+  "categoria": "alimentos",
+  "mascota": "Gato",
+  "marca": "Felinia",
+  "precio": 21.75,
+  "presentacion": "Bolsa de 3 kg",
+  "imagen": "/img/productos/alimento-gato-salmon.svg"
+}

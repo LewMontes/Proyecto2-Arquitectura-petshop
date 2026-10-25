@@ -1,0 +1,11 @@
+{
+  "codigo": "acondicionador-agua",
+  "nombre": "Acondicionador de agua",
+  "descripcion": "Elimina el cloro y metales pesados del agua del grifo.",
+  "categoria": "peces-aves",
+  "mascota": "Pez",
+  "marca": "AquaVida",
+  "precio": 6.3,
+  "presentacion": "Botella de 250 ml",
+  "imagen": "/img/productos/acondicionador-agua.svg"
+}

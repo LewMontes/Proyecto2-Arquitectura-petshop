@@ -1,0 +1,11 @@
+{
+  "codigo": "transportadora",
+  "nombre": "Transportadora plástica",
+  "descripcion": "Kennel ventilado con puerta metálica, apto para viajes cortos.",
+  "categoria": "accesorios",
+  "mascota": "Gato",
+  "marca": "ViajaPet",
+  "precio": 34.0,
+  "presentacion": "Tamaño pequeño",
+  "imagen": "/img/productos/transportadora.svg"
+}

@@ -1,0 +1,11 @@
+{
+  "codigo": "cepillo-carda",
+  "nombre": "Cepillo carda",
+  "descripcion": "Cepillo de púas metálicas que retira el pelo muerto y evita nudos.",
+  "categoria": "higiene",
+  "mascota": "Perro",
+  "marca": "PielSana",
+  "precio": 6.9,
+  "presentacion": "Tamaño mediano",
+  "imagen": "/img/productos/cepillo-carda.svg"
+}

@@ -1,0 +1,11 @@
+{
+  "codigo": "jaula-hamster",
+  "nombre": "Jaula para hámster",
+  "descripcion": "Jaula de dos pisos con rueda, bebedero y túnel.",
+  "categoria": "camas-casas",
+  "mascota": "Roedor",
+  "marca": "MiniMundo",
+  "precio": 38.5,
+  "presentacion": "47 x 30 x 37 cm",
+  "imagen": "/img/productos/jaula-hamster.svg"
+}

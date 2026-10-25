@@ -1,0 +1,11 @@
+{
+  "codigo": "raton-catnip",
+  "nombre": "Ratón con catnip",
+  "descripcion": "Ratoncito de felpa relleno de hierba gatera que estimula el juego.",
+  "categoria": "juguetes",
+  "mascota": "Gato",
+  "marca": "Felinia",
+  "precio": 3.1,
+  "presentacion": "Paquete de 2 unidades",
+  "imagen": "/img/productos/raton-catnip.svg"
+}

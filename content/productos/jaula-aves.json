@@ -1,0 +1,11 @@
+{
+  "codigo": "jaula-aves",
+  "nombre": "Jaula para aves pequeñas",
+  "descripcion": "Jaula metálica con perchas, comederos y bandeja extraíble.",
+  "categoria": "peces-aves",
+  "mascota": "Ave",
+  "marca": "PlumaLibre",
+  "precio": 42.0,
+  "presentacion": "50 x 30 x 60 cm",
+  "imagen": "/img/productos/jaula-aves.svg"
+}

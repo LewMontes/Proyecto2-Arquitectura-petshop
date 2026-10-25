@@ -1,0 +1,11 @@
+{
+  "codigo": "juguete-dispensador",
+  "nombre": "Juguete dispensador de premios",
+  "descripcion": "Juguete interactivo que libera premios mientras la mascota lo hace rodar.",
+  "categoria": "juguetes",
+  "mascota": "Perro",
+  "marca": "SmartPaws",
+  "precio": 12.6,
+  "presentacion": "Tamaño mediano",
+  "imagen": "/img/productos/juguete-dispensador.svg"
+}

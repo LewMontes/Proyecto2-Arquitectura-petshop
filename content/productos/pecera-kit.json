@@ -1,0 +1,11 @@
+{
+  "codigo": "pecera-kit",
+  "nombre": "Kit de pecera",
+  "descripcion": "Acuario de vidrio con filtro, luz LED y tapa, listo para empezar.",
+  "categoria": "peces-aves",
+  "mascota": "Pez",
+  "marca": "AquaVida",
+  "precio": 59.0,
+  "presentacion": "Capacidad 30 litros",
+  "imagen": "/img/productos/pecera-kit.svg"
+}

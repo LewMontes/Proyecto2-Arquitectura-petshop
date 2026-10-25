@@ -1,0 +1,11 @@
+{
+  "codigo": "arena-aglomerante",
+  "nombre": "Arena aglomerante",
+  "descripcion": "Arena de bentonita que forma grumos firmes y controla los olores.",
+  "categoria": "higiene",
+  "mascota": "Gato",
+  "marca": "Felinia",
+  "precio": 10.5,
+  "presentacion": "Bolsa de 10 kg",
+  "imagen": "/img/productos/arena-aglomerante.svg"
+}

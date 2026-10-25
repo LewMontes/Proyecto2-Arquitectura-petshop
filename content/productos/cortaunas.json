@@ -1,0 +1,11 @@
+{
+  "codigo": "cortaunas",
+  "nombre": "Cortaúñas tipo tijera",
+  "descripcion": "Cortaúñas con tope de seguridad y mango antideslizante.",
+  "categoria": "higiene",
+  "mascota": "Perro",
+  "marca": "PielSana",
+  "precio": 5.6,
+  "presentacion": "Uso para razas medianas",
+  "imagen": "/img/productos/cortaunas.svg"
+}

@@ -1,0 +1,11 @@
+{
+  "codigo": "cama-ovalada",
+  "nombre": "Cama ovalada acolchada",
+  "descripcion": "Cama con bordes altos y cojín removible y lavable.",
+  "categoria": "camas-casas",
+  "mascota": "Perro",
+  "marca": "DulceSueño",
+  "precio": 29.9,
+  "presentacion": "Talla M (70 cm)",
+  "imagen": "/img/productos/cama-ovalada.svg"
+}

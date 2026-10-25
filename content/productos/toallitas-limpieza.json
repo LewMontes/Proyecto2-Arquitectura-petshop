@@ -1,0 +1,11 @@
+{
+  "codigo": "toallitas-limpieza",
+  "nombre": "Toallitas húmedas",
+  "descripcion": "Toallitas hipoalergénicas para limpiar patas, orejas y pelaje.",
+  "categoria": "higiene",
+  "mascota": "Perro",
+  "marca": "PielSana",
+  "precio": 4.25,
+  "presentacion": "Paquete de 80 unidades",
+  "imagen": "/img/productos/toallitas-limpieza.svg"
+}

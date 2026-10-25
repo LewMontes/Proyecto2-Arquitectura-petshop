@@ -1,0 +1,11 @@
+{
+  "codigo": "semillas-periquitos",
+  "nombre": "Mezcla de semillas para periquitos",
+  "descripcion": "Mezcla de mijo, alpiste y avena para la dieta diaria de periquitos.",
+  "categoria": "peces-aves",
+  "mascota": "Ave",
+  "marca": "PlumaLibre",
+  "precio": 3.8,
+  "presentacion": "Bolsa de 1 kg",
+  "imagen": "/img/productos/semillas-periquitos.svg"
+}

@@ -1,0 +1,11 @@
+{
+  "codigo": "colchoneta-ortopedica",
+  "nombre": "Colchoneta ortopédica",
+  "descripcion": "Colchoneta de espuma viscoelástica para perros mayores o con dolor articular.",
+  "categoria": "camas-casas",
+  "mascota": "Perro",
+  "marca": "DulceSueño",
+  "precio": 48.0,
+  "presentacion": "Talla L (100 x 70 cm)",
+  "imagen": "/img/productos/colchoneta-ortopedica.svg"
+}

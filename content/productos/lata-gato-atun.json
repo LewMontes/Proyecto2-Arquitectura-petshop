@@ -1,0 +1,11 @@
+{
+  "codigo": "lata-gato-atun",
+  "nombre": "Alimento húmedo de atún para gato",
+  "descripcion": "Trocitos de atún en salsa, ideales para complementar la dieta seca.",
+  "categoria": "alimentos",
+  "mascota": "Gato",
+  "marca": "Felinia",
+  "precio": 1.6,
+  "presentacion": "Lata de 156 g",
+  "imagen": "/img/productos/lata-gato-atun.svg"
+}

@@ -1,0 +1,11 @@
+{
+  "codigo": "alimento-peces",
+  "nombre": "Hojuelas para peces tropicales",
+  "descripcion": "Alimento en hojuelas con vitaminas que realza los colores de los peces.",
+  "categoria": "peces-aves",
+  "mascota": "Pez",
+  "marca": "AquaVida",
+  "precio": 4.9,
+  "presentacion": "Frasco de 100 g",
+  "imagen": "/img/productos/alimento-peces.svg"
+}
