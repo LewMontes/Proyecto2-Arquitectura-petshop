@@ -1,9 +1,6 @@
 <!-- app/components/SnipcartLoader.vue -->
-<!-- Carga Snipcart sólo en el navegador (mismo enfoque que CommentsUtterances del Tutorial 8) -->
 <script setup>
-// Reemplazar por la API Key pública (modo Test) de su cuenta de Snipcart:
-// Dashboard de Snipcart → Account Settings → API Keys
-const SNIPCART_API_KEY = 'REEMPLAZAR_CON_SU_API_KEY_PUBLICA'
+const SNIPCART_API_KEY = 'M2U0MDFkNzMtZGI3My00ZjcyLTkwNGQtMGM3ZmIyNmFmZDMxNjM5Mjg0ODQ3MDEzMTQ1MzMx'
 
 onMounted(() => {
   if (document.getElementById('snipcart')) return
